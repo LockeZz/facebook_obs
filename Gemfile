@@ -31,6 +31,7 @@ gem 'rack-cors'
 gem 'koala'
 gem 'facebook-messenger'
 gem 'rails_admin'
+gem 'money-rails'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
